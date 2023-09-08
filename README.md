@@ -1,4 +1,6 @@
-# calculadora
+# calculadora en Flutter
+![image](https://github.com/elisay1/Calculadora-flutter/assets/109012405/290f0f57-ac38-42cd-bda4-5bb224385954)
+
 
 A new Flutter project.
 
